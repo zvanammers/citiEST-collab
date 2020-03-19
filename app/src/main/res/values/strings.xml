@@ -1,0 +1,95 @@
+<resources>
+    <string name="app_name">CitiEST</string>
+    <string name="title_activity_weather">weather</string>
+    <string name="title_activity_my_events">MyEvents</string>
+    <string name="title_activity_add_event">AddEvent</string>
+    <string-array name="city_names">
+        <item>Tallinn</item>
+        <item>Tartu</item>
+        <item>Narva</item>
+        <item>Pärnu</item>
+        <item>Viljandi</item>
+        <item>Rakvere</item>
+        <item>Võru</item>
+    </string-array>
+
+    <string-array name="city_introductions">
+        <item>Tallinn is the capital of Estonia and is home for almost one third of the population.
+            It is located in the northern part of the country on the shore of Gulf of Finland of the Baltic sea.
+            Tallinn\'s Old Town is one of the best preserved medieval cities in Europe and is listed as a UNESCO World Heritage Site.
+        </item>
+        <item>
+            Tartu is the second largest city in Estonia and is often considered the intellectual centre of the country as
+            it is home to the nations oldest and most renowed university, University of Tartu. It is also the birthplace of Estonian Song Festivals. Tartu lies
+            on the Emajõgi ("Mother River"), which connects the two largest lakes of Estonia.
+        </item>
+        <item>
+            Narva is located at the eastern extreme point of Estonia, at the Russian border, on the Narva river which drains Lake Peipus.
+            It is the third largest city in Estonia with 95.7% of the population being native Russian speakers.
+        </item>
+        <item>
+            Pärnu is the fourth largest city in Estonia. It is located in the southwestern Estonia on the coast of Pärnu Bay.
+            It is the most popular summer holiday resort with many hotels, restaurants and large beaches. The majority of tourists visiting Pärnu are
+            Finns, Swedes and Russians.
+        </item>
+        <item>
+            Viljandi is located on the shore of Lake Viljandi and is considered to be the cultural capital of Estonia, partly
+            due to the Viljandi Culture Academy being located there. The largest music festival with a focus to European folk music called Viljandi Folk Music Festival
+            is held in Viljandi annualy in the end of July.
+        </item>
+        <item>
+            Rakvere is a town in northern Estonia. It is believed to be the smallest city in Europe to have a professional
+            theatre, that has given Estonia many famous actors. It is also known for the Vallimägi hill that holds the largest animal
+            statue in the Baltic coutries, Tarvas.
+        </item>
+        <item>
+            Võru is a town in southern Estonia. It is the home for Võru Folklore Festival, which has been held since 1995 annualy.
+            Near the city in the Võru county, the highest peak of Estonia, Suur Munamägi (The Big Egg Hill) is located, reaching
+            318 metres above the sea level.
+        </item>
+    </string-array>
+
+
+
+    <string-array name="Tallinn">
+        <item>Freedom Square,59.4338522,24.7439242</item>
+        <item>Kohtuotsa viewing platform,59.437748,24.741744</item>
+        <item>Tallinn Town Hall,59.4370026,24.7452927</item>
+    </string-array>
+
+    <string-array name="Tartu">
+        <item>Tartu Kaarsild Bridge,58.380747,26.726262</item>
+        <item>Tartu Dome Church,58.3802096,26.7144597</item>
+        <item>AHHAA Science Centre,58.3762162,26.7336465</item>
+    </string-array>
+
+    <string-array name="Narva">
+        <item>Kreenholm island,59.3577882,28.1884671</item>
+        <item>Narva Town Hall,59.3793778,28.1965383</item>
+        <item>Narva Museum,59.3754105,28.1989267</item>
+    </string-array>
+
+    <string-array name="Pärnu">
+        <item>Pärnu beach,58.3716442,24.5002603</item>
+        <item>St. Elizabeth\'s Church,58.3838028,24.4979112</item>
+        <item>Pärnu scenic camping track,58.3731382,24.5083207</item>
+    </string-array>
+
+    <string-array name="Viljandi">
+        <item>Viljandi Fortress and castle hill,58.358615,25.5925859</item>
+        <item>St. John\'s Church,58.3610367,25.5905963</item>
+        <item>Swing with the best view over Viljandi,58.3610231,25.5999884</item>
+    </string-array>
+
+    <string-array name="Rakvere">
+        <item>Bull statue,59.3491399,26.3507648</item>
+        <item>Rakvere Castle,59.3481158,26.3518495</item>
+        <item>Turu Square,59.3480956,26.36114</item>
+    </string-array>
+
+    <string-array name="Võru">
+        <item>Võru main square,57.8450889,26.99489</item>
+        <item>Tamula beach,57.8438755,26.9879447</item>
+        <item>Katariina Church,57.8485636,26.9929205</item>
+    </string-array>
+</resources>

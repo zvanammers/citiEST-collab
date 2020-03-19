@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:myapp="http://schemas.android.com/apk/res-auto"    >
+    <item
+        android:id="@+id/settings_button"
+        android:title="@string/app_name"
+        android:icon="@drawable/settings"
+        android:orderInCategory="100"
+        myapp:showAsAction="always"/>
+</menu>
