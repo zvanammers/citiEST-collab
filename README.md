@@ -1,3 +1,4 @@
 # citiEST-collab
 Estonia Travel App
-Created by collaboration with Helen, and Anisa
+
+Created through collaboration with Helen, and Anisa while on exchange in Estonia.
